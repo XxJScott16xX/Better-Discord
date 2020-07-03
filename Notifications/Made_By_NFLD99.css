@@ -8,7 +8,7 @@ body{-webkit-backface-visibility:hidden;backface-visibility:hidden}
 
 body::after{z-index:-9999}
 
-body::after,.callout-backdrop::after{content:"";position:absolute;top:0;left:0;width:100%;height:100%;background-size:cover;background-position:center;-webkit-filter:brightness(var(--Background-Darkness)) blur(var(--background-blur));filter:brightness(var(--Background-Darkness)) blur(var(--background-blur))}html>body>#app-mount * .anchor-3Z-8Bb.anchorUnderlineOnHover-2ESHQB[href="https://paypal.me/lighty13"],html>body>#app-mount * .bda-link[href*=MessageLogger],html>body>#app-mount * [aria-label="Data stats"],html>body>#app-mount * [aria-label="Logger help"],html>body>#app-mount * [aria-label="Open Logs"],html>body>#app-mount * [class*=ml2-],html>body>#app-mount * .modal-yWgWj-.container-1HKDLE.sizeLarge-2yOtf1.fullscreenOnMobile-1aglG_[aria-label="[object Object]"],#plugin-settings-MessageLoggerV2{display:none!important}.callout-backdrop::after{background-image:inherit}
+body::after,.callout-backdrop::after{content:"";position:absolute;top:0;left:0;width:100%;height:100%;background-size:cover;background-position:center;-webkit-filter:brightness(var(--Background-Darkness)) blur(var(--background-blur));filter:brightness(var(--Background-Darkness)) blur(var(--background-blur))}
 
 .callout-backdrop{background-color:transparent!important;-webkit-transition:.3s all ease;-o-transition:.3s all ease;-moz-transition:.3s all ease;transition:.3s all ease}
 
